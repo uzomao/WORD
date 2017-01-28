@@ -1,0 +1,36 @@
+body {
+	text-align: center;
+	font-size: 1.6em;
+	font-family: Helvetica;
+	color: #A267A9;
+}
+
+a {
+	color: white;
+	text-decoration: underline
+}
+
+section{ 
+	margin: 2em 0;
+}
+.purple-section {
+	background-color: #A267A9;
+	color: white;
+}
+
+.row {
+	padding: 5px 0;
+}.row img {
+	max-width: 100%;
+}
+
+.contact {
+	font-size: 1.6em;
+}
+
+footer {
+	margin-top: 20px;
+}
+#designed-by {
+	font-size: .9em;
+}
