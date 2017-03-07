@@ -5,6 +5,15 @@ body {
 	color: #A267A9;
 }
 
+.navbar-collapse {
+	padding-left: 30%;
+}
+.nav-link {
+	color: #A267A9 !important;
+	text-decoration: none;
+
+}
+
 a {
 	color: white;
 	text-decoration: underline
